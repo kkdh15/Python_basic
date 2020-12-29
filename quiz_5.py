@@ -84,16 +84,16 @@
 
 #---------------------------------------------------------
 
-# Quiz 5
-from random import *
+# # Quiz 5
+# from random import *
 
-customer = list(range(1,51))
-count = 0
-for i in customer:
-    time = randint(5,50)
-    if 5 <= time <= 15:
-        print(f"[O] {i}번째 손님 (소요시간 : {time}분")
-        count += 1
-    else:
-        print(f"[ ] {i}번째 손님 (소요시간 : {time}분")
-print("총 탑승 승객 : {} 분".format(count))
+# customer = list(range(1,51))
+# count = 0
+# for i in customer:
+#     time = randint(5,50)
+#     if 5 <= time <= 15:
+#         print(f"[O] {i}번째 손님 (소요시간 : {time}분")
+#         count += 1
+#     else:
+#         print(f"[ ] {i}번째 손님 (소요시간 : {time}분")
+# print("총 탑승 승객 : {} 분".format(count))

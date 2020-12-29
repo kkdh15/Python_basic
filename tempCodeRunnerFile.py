@@ -1,1 +1,1 @@
-list.del(a)
+ return gun
