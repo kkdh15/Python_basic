@@ -1,1 +1,2 @@
- return gun
+lst = [1,2,3]
+# print(dir(lst))
